@@ -1,0 +1,17 @@
+.container {
+    margin: 50px 0;
+}
+
+.wheel-wrap {
+    margin-left: 80px;
+}
+
+#canvas {
+    background-image: url('./assets/wheel-apparatus.png');
+    background-size: cover;
+    background-repeat: no-repeat;   /* Ensure that background does not repeat */
+    background-position: center;    /* Ensure image is centred */
+    margin: 0 auto;
+}
+
+.log
